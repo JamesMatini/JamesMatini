@@ -11,13 +11,24 @@
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
+## 🚀 About Me | Data Analyst | Turning Data into Stories and Strategic Insights
+I’m a Data Analyst passionate about transforming complex datasets into actionable insights. 
+I specialize in data cleaning, visualization, dashboards, and automating workflows to help teams make data-driven decisions.
+Skilled in Excel, Power BI, Python, and SQL, I enjoy turning raw data into stories that inform strategy and solve real-world problems.
 When I'm not working with data, I enjoy creating content, hiking, mentoring others, etc.. I love the "aha!" moment when data reveals something new and useful.
 
+**My Focus:**
+*   **Effective Data Visualization:** Building intuitive dashboards and reports in **Tableau** or **Power BI** that teams actually use to monitor KPIs and uncover trends.
+*   **Process Automation:** Using **SQL**, **Python**, and **R** to automate repetitive data collection and cleaning tasks, freeing up valuable time for deeper analysis.
+*   **Predictive Modeling:** Developing models to forecast trends, simulate scenarios, and help businesses plan for the future with greater confidence.
+
+I live for the "aha!" moment when a hidden pattern emerges and data reveals a new, useful insight.
+
+**Let's Connect:**
+*   **Portfolio & Projects:** You're here already! 👀
+*   **Professional Profile:** [Your LinkedIn Profile URL]
+*   **Email:** [Your Professional Email]
+  
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
@@ -25,12 +36,12 @@ When I'm not working with data, I enjoy creating content, hiking, mentoring othe
 
 - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Advanced machine learning techniques in Scikit-learn.
+- Cloud data warehousing with Google BigQuery.
 
 ## 🛠️ Technical Skillset
 
