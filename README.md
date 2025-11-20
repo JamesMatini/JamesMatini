@@ -18,24 +18,24 @@ Skilled in Excel, Power BI, Python, and SQL, I enjoy turning raw data into stori
 When I'm not working with data, I enjoy creating content, hiking, mentoring others, etc.. I love the "aha!" moment when data reveals something new and useful.
 
 **My Focus:**
-*   **Effective Data Visualization:** Building intuitive dashboards and reports in **Tableau** or **Power BI** that teams actually use to monitor KPIs and uncover trends.
-*   **Process Automation:** Using **SQL**, **Python**, and **R** to automate repetitive data collection and cleaning tasks, freeing up valuable time for deeper analysis.
-*   **Predictive Modeling:** Developing models to forecast trends, simulate scenarios, and help businesses plan for the future with greater confidence.
+   **Effective Data Visualization:** Building intuitive dashboards and reports in **Tableau** or **Power BI** that teams actually use to monitor KPIs and uncover trends.
+   **Process Automation:** Using **SQL**, **Python**, and **R** to automate repetitive data collection and cleaning tasks, freeing up valuable time for deeper analysis.
+   **Predictive Modeling:** Developing models to forecast trends, simulate scenarios, and help businesses plan for the future with greater confidence.
 
 I live for the "aha!" moment when a hidden pattern emerges and data reveals a new, useful insight.
 
 **Let's Connect:**
-*   **Portfolio & Projects:** You're here already! 👀
-*   **Professional Profile:** [Your LinkedIn Profile URL]
-*   **Email:** [Your Professional Email]
+   **Portfolio & Projects:** You're here already! 👀
+   **Professional Profile:** [Your LinkedIn Profile URL]
+   **Email:** [Your Professional Email]
   
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+ **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+ **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 
 
 ## 🌱 Currently Learning 
