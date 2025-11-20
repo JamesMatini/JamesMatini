@@ -15,7 +15,7 @@
 
 **Data Analyst | Turning Data into Stories & Strategic Insights**
 
-I'm a passionate Data Analyst who transforms complex datasets into actionable business intelligence. I specialize in the end-to-end data journey—from cleaning and processing to visualization and automation—enabling teams to make informed, data-driven decisions.
+I'm a passionate Data Analyst who transforms complex datasets into actionable business intelligence. I specialize in the end-to-end data journey from cleaning and processing to visualization and automation enabling teams to make informed, data-driven decisions.
 
 **Technical Toolkit:** Excel | Power BI | Python | SQL | Tableau | R
 
